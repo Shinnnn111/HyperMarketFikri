@@ -1,8 +1,8 @@
 package main;
 public class ItemInformation 
 {
-    private String itemID;
-    private String itemName;
+    private String itemID; //Item ID
+    private String itemName; //Item Name variable
     private double itemPrice;
     private String datePurchase;
     private String custID;
